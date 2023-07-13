@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "fname": "Surendra ",
+      "name": "Singh",
+      "email": "surrigusain8@gmail.com",
+      "password": "123456",
+      "phone": "991731921",
+      "country": "usa",
+      "address": "New Delhi",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "fname": "Mukesh",
+      "name": "Singh",
+      "email": "mk@gmail.com",
+      "password": "123466",
+      "phone": "9917315921",
+      "country": "usa",
+      "address": "delhi",
+      "gender": "Male",
+      "id": 2
+    }
+  ]
+}
